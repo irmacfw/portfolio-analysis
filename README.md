@@ -53,9 +53,8 @@ Portfolio-Analysis/
 - `Data/portfolio_weights.csv`
 - `Data/asset_information_data.csv`
 
-**Generated visualizations are stored in:**  
 📂 `visualizations/`  
-*(Contains key plots such as cumulative returns, correlation heatmap, and allocation charts.)*
+*includes cumulative returns, correlation heatmap, and allocation charts.*
 
 ---
 
@@ -95,7 +94,7 @@ Main plots generated in this analysis are saved under
 ## 🎤 Presentation Slides
 
 📎 **Google Slides Presentation:**  
-👉 [View here](https://docs.google.com/presentation/d/REPLACE_WITH_YOUR_LINK/edit?usp=sharing)  
+👉 [View here](https://docs.google.com/presentation/d/1xx09CtmPviXYvznnmSW6VV1z6QFfGax2-8PJJMVXCfE/edit?usp=sharing)  
 
 *(A short 3-slide presentation summarizing the main results and recommendations.)*
 
