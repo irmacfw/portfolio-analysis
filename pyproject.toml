@@ -1,0 +1,13 @@
+[project]
+name = "portfolio-analysis"
+version = "0.1.0"
+description = "Portfolio Analysis Challenge"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "jupyter"
+]
