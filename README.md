@@ -92,11 +92,8 @@ Main plots generated in this analysis are saved under
 ---
 
 ## 🎤 Presentation Slides
-
 📎 **Google Slides Presentation:**  
-👉 [View here](https://docs.google.com/presentation/d/1xx09CtmPviXYvznnmSW6VV1z6QFfGax2-8PJJMVXCfE/edit?usp=sharing)  
-
-*(A short 3-slide presentation summarizing the main results and recommendations.)*
+👉 [View Slides](https://docs.google.com/presentation/d/1xx09CtmPviXYvznnmSW6VV1z6QFfGax2-8PJJMVXCfE/present?slide=id.p)
 
 ---
 
