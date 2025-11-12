@@ -67,6 +67,33 @@ Portfolio-Analysis/
 
 ---
 
+## 🏦 Asset Categories Explained
+
+The portfolio consists of three main asset classes, each serving a different purpose in risk and return balance:
+
+| **Asset Type** | **Examples** | **Role in Portfolio** |
+|-----------------|--------------|------------------------|
+| **Fixed Income** | Certificates of Deposit (CDs), government or corporate bonds | Provides stability and predictable income through fixed interest payments |
+| **Equity** | Stocks, ETFs | Represents company ownership; higher potential returns but more volatility |
+| **Alternative** | Bitcoin, gold, real estate, hedge funds | Adds diversification; returns are often uncorrelated with traditional markets |
+
+💡 *Example:* A Certificate of Deposit would be classified as **Fixed Income**,  
+buying company shares would fall under **Equity**,  
+and investing in Bitcoin would be considered an **Alternative** asset.
+
+---
+
+## ⚖️ Price Normalization Rationale
+
+Because each asset had a different nominal value (e.g., stocks, bonds, and Bitcoin priced in different ranges),  
+all price series were **normalized to 1 at the starting date** to allow fair comparison.
+
+This means each line in the price evolution chart represents **relative performance** instead of absolute price levels.  
+It makes trends visible regardless of the asset’s initial price, highlighting which categories performed better over time.
+
+---
+
+
 ## 💬 Financial Recommendation
 The current portfolio strategy is **effective and well-balanced**.  
 It offers strong returns with moderate risk, making it suitable for long-term investors such as a **couple with medium to high risk tolerance**.
